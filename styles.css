@@ -38,6 +38,18 @@
   order: 0;
   flex-grow: 0;
 }
+.border_dots {
+  height: 2px;
+  width: 190px;
+  margin-top: 70px;
+  margin-left: -530.7px;
+}
+.border_dots2 {
+  height: 2px;
+  width: 316px;
+  margin-top: 70px;
+  margin-left: -315.7px;
+}
 .bought:hover {
   cursor: pointer;
   opacity: 0.5;

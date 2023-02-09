@@ -2,7 +2,7 @@
   font-family: 'Rubik400';
   src: url('./assets/Rubik400.ttf');
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
   .nav_container {
     display: flex;
     margin-top: 40px;

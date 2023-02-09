@@ -2,7 +2,7 @@
   font-family: 'Rubik400';
   src: url('./assets/Rubik400.ttf');
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 390px) {
   .nav_container {
     display: flex;
     margin-top: 40px;
@@ -11,7 +11,7 @@
   }
   .popular_items {
     font-family: 'Rubik400';
-    margin-left: -250px;
+    margin-left: -240px;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -20,7 +20,7 @@
     color: #000000;
   }
   .bought {
-    margin-left: -250px;
+    margin-left: -240px;
     font-family: 'Rubik400';
     font-style: normal;
     font-weight: 400;
@@ -33,7 +33,7 @@
     opacity: 0.5;
   }
   .interested {
-    margin-left: -250px;
+    margin-left: -240px;
     font-family: 'Rubik400';
     font-style: normal;
     font-weight: 400;
@@ -52,7 +52,7 @@
     flex-direction: column;
   }
   .blocks {
-    margin-left: -250px;
+    margin-left: -240px;
     margin-bottom: 20px;
     box-sizing: border-box;
     width: 260px;

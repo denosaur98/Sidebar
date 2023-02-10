@@ -183,6 +183,10 @@
 }
 .line_active {
   background-image: url('./assets/liner_slider_active.png');
+  height: 2px;
+  width: 20px;
+  margin: 5px;
+  margin-top: 223px;
 }
 .line:hover {
   cursor: pointer;

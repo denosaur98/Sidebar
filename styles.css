@@ -75,8 +75,10 @@
   justify-content: space-between;
   margin-right: 262px;
   margin-left: 262px;
+  transition: 0.5s ease-in-out;
 }
 .blocks {
+  margin-left: -260px;
   box-sizing: border-box;
   width: 334px;
   height: 496px;
@@ -388,4 +390,9 @@
   cursor: pointer;
   transform: rotate(180deg);
   opacity: 0.5;
+}
+.slider_body {
+  margin-left: 260px;
+  width: 1600px;
+  overflow: hidden;
 }

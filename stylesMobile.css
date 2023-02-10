@@ -348,4 +348,7 @@
     transform: scale(1.03);
     transition: 0.3s;
   }
+  .arrow_container {
+    display: none;
+  }
 }

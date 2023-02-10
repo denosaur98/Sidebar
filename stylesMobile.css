@@ -351,4 +351,10 @@
   .arrow_container {
     display: none;
   }
+  
+  .slider_body {
+    margin-left: 0px;
+    width: 1600px;
+    overflow: hidden;
+  }
 }

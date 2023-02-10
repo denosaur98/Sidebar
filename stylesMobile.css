@@ -58,7 +58,6 @@
     cursor: pointer;
     opacity: 0.5;
   }
-
   .main_container {
     margin-top: 40px;
     display: flex;
@@ -239,7 +238,6 @@
     flex-grow: 1;
   }
   .sales_container {
-  
     margin-top: -15px;
   }
   .sale1 {
@@ -351,10 +349,9 @@
   .arrow_container {
     display: none;
   }
-  
   .slider_body {
     margin-left: 0px;
-    width: 1600px;
+    width: 320px;
     overflow: hidden;
   }
 }
